@@ -5,3 +5,5 @@ langchain-openai
 langchain-community
 langchain-chroma
 python-dotenv
+sentence-transformers
+numpy
